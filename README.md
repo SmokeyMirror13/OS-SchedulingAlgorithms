@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - **Step 4-**  Choose Clone URI
 
-- **Step 5-**  Enter https://github.com/SmokeyMirror13/OS-SchedulingAlgorithms in URI
+- **Step 5-**  Enter https://github.com/manav5hah/OS-SchedulingAlgorithms/ in URI
 
 - **Step 6-**  Click next and you are all set
 
